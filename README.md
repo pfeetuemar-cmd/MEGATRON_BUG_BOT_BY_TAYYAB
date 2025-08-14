@@ -16,7 +16,6 @@
 > This bot lets you create **live polls** and collect **votes** from WhatsApp groups and personal chats.  
 > Perfect for events, team decisions, or just fun with friends. 🎉  
 
----
 
 ## 🚀 Features
 
@@ -42,6 +41,7 @@ pkg install libwebp -y
 pkg install imagemagick -y
 git clone <Your_Repo_Link>
 cd MEGATRON_BUG_BOT_BY_TAYYAB
+```bash
 
 
 ---
