@@ -2,7 +2,7 @@ module.exports = async function ({ reply }) {
   reply(
 `👑 *Bot Owner Name:* Lucifer-x11 
 🔮 *About Me:*  
-I am *Tayyab*, the creator of *MegaTron WhatsApp Bot*.  
+I am *Lucifer*, the creator of *MegaTron WhatsApp Bot*.  
 A passionate tech enthusiast, full-stack developer, and bug researcher.  
 I specialize in creating powerful WhatsApp automation bots, security tools,  
 and crafting unique UI crash exploits that shake the platform.  
