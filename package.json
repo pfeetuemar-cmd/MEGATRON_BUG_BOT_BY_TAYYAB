@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tayyab",
+  "author": "Lucifer",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.0",
