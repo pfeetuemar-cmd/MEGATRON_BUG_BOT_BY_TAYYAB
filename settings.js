@@ -2,7 +2,7 @@
 // DON'T FORGET ANY CODE ⚠️ YOU CHENGE ANY CODE BOT HARD BEEN CRUSH
 
 // 🔗 Import owner number from ./Owner/owner.js
-const ownerNumber = require('./owner'); // 💡 owner.js should export array of numbers like ['923123456789']
+const ownerNumber = require('./Owner/owner'); // 💡 owner.js should export array of numbers like ['923123456789']
 
 const config = {
    👑ownerNumber, // Owner Number(s)
