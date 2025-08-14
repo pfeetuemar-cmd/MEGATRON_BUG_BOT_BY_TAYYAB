@@ -1,52 +1,44 @@
-🤖✨ MEGATRON - WHATSAPP BOT ✨🤖
+# 📊✨ WHATSAPP VOTING BOT ✨📊
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&width=440&lines=Created+By+TAYYAB+%E2%9D%A6%EF%B8%8F+✓;Powerful+BugBot+With+Crash+Features;Built+With+🔥+Baileys+API" alt="Typing SVG" />
+  <img src="https://i.ibb.co/Q3DPn0Jg/bot-image.jpg" alt="Bot Image" width="300" style="border-radius: 15px;" />
 </p>
----
 
-👑 Developer Introduction
-
-> Hey! I'm LUCIFER — also known as @𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 — a passionate developer from 🇵🇰.
-I build custom WhatsApp automation bots, web exploits, and ethical research tools.
-MEGATRON is my latest creation — a stylish, powerful crash & bug research bot for educational testing and secure group moderation.
-
-
-
-📺 YouTube Channel: @DEMONEYE
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&width=500&lines=WhatsApp+Voting+Bot;Easy+Polls+%26+Votes;Built+With+Baileys+API" alt="Typing SVG" />
+</p>
 
 ---
 
-📹 Deployment Guide
+## 👑 Developer
 
-🎥 Video Tutorial: Coming Soon…
-
+> Hi! I'm **Your Name**, a passionate developer specializing in **WhatsApp automation** & **interactive bots**.  
+> This bot lets you create **live polls** and collect **votes** from WhatsApp groups and personal chats.  
+> Perfect for events, team decisions, or just fun with friends. 🎉  
 
 ---
 
-🚀 Installation (Termux)
+## 🚀 Features
 
-🟢 Step 1 — Install Required Packages
+✅ Create polls with multiple options  
+✅ Real-time vote counting  
+✅ Show poll results in chat  
+✅ Works in groups & private chats  
+✅ Easy commands — no complex setup  
+✅ Customizable messages & themes  
 
+---
+
+## 📦 Installation Guide (Termux)
+
+### Step 1 — Install Required Packages
+```bash
 pkg update && pkg upgrade -y
 pkg install nodejs -y
 pkg install git -y
 pkg install ffmpeg -y
 pkg install libwebp -y
 pkg install imagemagick -y
-
-⚠️ যদি ইনস্টলেশনের সময় "Do you want to continue? [Y/n]" আসে, শুধু লিখুন:
-
-y
-
-এবং Enter চাপুন।
-
-
----
-
-📥 Step 2 — Clone Repository
-
 git clone <Your_Repo_Link>
 cd MEGATRON_BUG_BOT_BY_TAYYAB
 
