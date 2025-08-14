@@ -12,7 +12,7 @@
 
 ## 👑 Developer
 
-> Hi! I'm **Your Name**, a passionate developer specializing in **WhatsApp automation** & **interactive bots**.  
+> Hi! I'm **𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑**, a passionate developer specializing in **WhatsApp automation** & **interactive bots**.  
 > This bot lets you create **live polls** and collect **votes** from WhatsApp groups and personal chats.  
 > Perfect for events, team decisions, or just fun with friends. 🎉  
 
@@ -108,3 +108,5 @@ Copyright (c) 2025 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑
 
 You are responsible for your actions.
 
+//
+THE WHATSAPP WHAT CREATE BY LUCIFER WHITE DESIGNER CREDIT BY LUCIFER NO CREDIT
