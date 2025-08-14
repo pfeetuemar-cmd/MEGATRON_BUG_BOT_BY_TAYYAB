@@ -30,17 +30,88 @@
 
 ## 📦 Installation Guide (Termux)
 
-### Step 1 — Install Required Packages
+## 🚀 Installation Commands (Termux)
+
+> Follow these **step-by-step commands** to run the bot successfully:
+
+### 🟢 Step 1: Install Required Packages
 ```bash
 pkg update && pkg upgrade -y
-termux-change-repo
 pkg install nodejs -y
 pkg install git -y
 pkg install ffmpeg -y
 pkg install libwebp -y
 pkg install imagemagick -y
-git clone <Your_Repo_Link>
-cd MEGATRON_BUG_BOT_BY_TAYYA
+```
+⚠️ **During the installation of required packages like `imagemagick`, `ffmpeg`, `nodejs`, or others in Termux, you may be prompted with a confirmation message like:**
+
+Do you want to continue? [Y/n]
+
+✅ When this appears, simply type:
+
+y
+
+And press Enter.
+
+This confirms that you agree to install the package and allows the installation process to continue successfully.
+
+---
+
+📥 Step 2: Clone This Repo
+
+```
+git clone your clone Address
+cd MEGATRON_BUG_BOT_BY_TAYYAB
+```
+
+---
+**Now setup YoUr Termux**
+
+```
 termux-setup-storage
+```
+
+🧱 Step 3: Install Node Modules
+```
 npm install
+```
+
+---
+
+🔐 Step 4: Run The Bot
+```
 node index.js
+```
+
+---
+
+✅ Bonus: For Auto Reload
+```
+node --watch index.js
+```
+
+---
+
+✨ **Bot Features**
+
+Stylish .menu with emojis + auto image
+
+Owner Commands (.self / .public / .tosticker / .block / .autotyping)
+
+Group Commands (.kick / .add / .tagall / .antilink / .open / .close)
+
+Bug Menu (UI crash, blank UI, freeze, force close)
+
+Anti-bug features (autoBlock payloads)
+
+Auto typing, auto greet, auto status view, auto react 💖
+
+Reply to: hi, hello, etc.
+
+Hidden commands: .ping, .alive, .owner
+
+💥 Dangerous crash payloads (base64 encoded for stealth)
+
+Stylish Signature:
+
+> 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 ❦️ ✓
