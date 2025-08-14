@@ -40,74 +40,7 @@ pkg install ffmpeg -y
 pkg install libwebp -y
 pkg install imagemagick -y
 git clone <Your_Repo_Link>
-cd MEGATRON_BUG_BOT_BY_TAYYAB
-```bash
-
-
----
-
-📂 Step 3 — Setup Storage
-
+cd MEGATRON_BUG_BOT_BY_TAYYA
 termux-setup-storage
-
-
----
-
-📦 Step 4 — Install Node Modules
-
 npm install
-
-
----
-
-🔐 Step 5 — Run the Bot
-
 node index.js
-
-✅ Auto Reload Mode:
-
-node --watch index.js
-
-
----
-
-✨ Bot Features
-
-📜 Stylish .menu with emojis + auto image
-
-👑 Owner Commands: .self, .public, .tosticker, .block, .autotyping
-
-👥 Group Commands: .kick, .add, .tagall, .antilink, .open, .close
-
-🐞 Bug Menu: UI crash, blank UI, freeze, force close
-
-🛡 Anti-Bug: auto block payloads
-
-🤖 Auto typing, auto greet, auto status view, auto react 💖
-
-💬 Auto reply to: hi, hello, assalamualaikum, etc.
-
-🔍 Hidden Commands: .ping, .alive, .owner
-
-💥 Base64-encoded crash payloads for stealth
-
-
-
----
-
-⚠️ Disclaimer & License
-
-MIT License
-Copyright (c) 2025 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑
-
-✅ Educational purpose only
-
-✅ Controlled bug testing
-
-❌ Not for harming users or violating WhatsApp policy
-
-
-You are responsible for your actions.
-
-//
-THE WHATSAPP WHAT CREATE BY LUCIFER WHITE DESIGNER CREDIT BY LUCIFER NO CREDIT
