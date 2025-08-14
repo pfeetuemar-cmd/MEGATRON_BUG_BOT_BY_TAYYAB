@@ -34,6 +34,7 @@
 ### Step 1 — Install Required Packages
 ```bash
 pkg update && pkg upgrade -y
+termux-change-repo
 pkg install nodejs -y
 pkg install git -y
 pkg install ffmpeg -y
